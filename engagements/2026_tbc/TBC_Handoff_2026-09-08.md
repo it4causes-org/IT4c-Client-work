@@ -118,3 +118,7 @@ Mark is moving his work from his personal Claude account to the IT4Causes accoun
   - Settle the staff rate: $116 or $160.
   - Move v3 into `04_deliverables` under CLIENT names.
   - Start the BRRC engagement data file.
+
+## Addendum 6, 2026-10-06: sessions board
+
+Mark asked for a page to run the biweekly AI adoption sessions with Sterling and April: set the agenda, tick off what we did, collect questions, link trainings, and build the next session from what's still open. It's built and seeded from the Sept 23 and Oct 6 transcripts: https://claude.ai/artifact/PNBaUUWtSvo2L8E7BKTMeq. Source, data model, sharing notes, and the after-session routine are in `engagements/2026_tbc/sessions_board/`. Next session: Tuesday, October 20, noon, time to confirm, on designing the SharePoint site. The ChatGPT migration steps (t01) have been promised at two sessions in a row. Send them before the 20th.

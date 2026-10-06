@@ -15,6 +15,7 @@ Working notes and tooling for IT4Causes client engagements (AI readiness assessm
 ## Engagements
 
 - **2026_tbc** (Tabernacle Baptist Church): read `engagements/2026_tbc/TBC_Handoff_2026-09-08.md` first, including all addenda. Page artifact: https://claude.ai/artifact/Cmx6ieGsCWQA2BAZ1kV4Xw
+  Sessions board: https://claude.ai/artifact/PNBaUUWtSvo2L8E7BKTMeq (see `engagements/2026_tbc/sessions_board/README.md`)
 
 ## Working preferences (Mark)
 
